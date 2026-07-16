@@ -42,11 +42,6 @@ The dashboard enables users to monitor KPIs, analyze trends, and generate report
 
 ---
 
-## 📸 Dashboard Preview
-
-(Add Dashboard screenshots here)
-
----
 
 ## 📈 Dashboard KPIs
 
